@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-ghunnah-formant-dsp",
+  "description": "Nasal Ghunnah Formant Resonance & 2-Harakat Timer (محلل التردد الصوتي للغنة ومقدار الحركتين)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
